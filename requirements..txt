@@ -26,7 +26,7 @@ PyJWT==1.6.4
 pytz==2018.4
 raven==6.9.0
 redis==2.10.6
-requests==2.19.0
+requests==2.20.0
 six==1.11.0
 South==1.0.2
 uritemplate==3.0.0
